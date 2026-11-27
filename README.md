@@ -8,17 +8,17 @@ Prepared by Harsh Kumar | November 2026
 
 ## Preview
 
-![Cover](assets/cover.png)
+![Cover](cover.png)
 
 ### Selected slides
 
 | Topic | Preview |
 |---|---|
-| LEADS 2025 state tiers | ![LEADS 2025 state tiers](assets/leads-2025-state-tiers.png) |
-| State policy examples | ![State policy examples](assets/state-policy-examples.png) |
-| Policy-to-execution gap | ![Policy-to-execution gap](assets/policy-to-execution-gap.png) |
-| 12-month roadmap | ![12-month roadmap](assets/12-month-roadmap.png) |
-| Monthly KPI scorecard | ![Monthly KPI scorecard](assets/monthly-kpi-scorecard.png) |
+| LEADS 2025 state tiers | ![LEADS 2025 state tiers](leads-2025-state-tiers.png) |
+| State policy examples | ![State policy examples](state-policy-examples.png) |
+| Policy-to-execution gap | ![Policy-to-execution gap](policy-to-execution-gap.png) |
+| 12-month roadmap | ![12-month roadmap](12-month-roadmap.png) |
+| Monthly KPI scorecard | ![Monthly KPI scorecard](monthly-kpi-scorecard.png) |
 
 ## Executive summary
 
@@ -94,7 +94,7 @@ The brief proposes five linked levers, mapped to LEADS assessment areas:
 
 - `LEADS_2025_State_Logistics_Policy_Brief.pptx` — editable 14-slide presentation, including speaker notes.
 - `LEADS_2025_State_Logistics_Policy_Brief.pdf` — PDF version for quick browser viewing.
-- `sources/Source_Register.csv` — claim-to-source register with publication dates, links and usage notes.
+- `Source_Register.csv` — claim-to-source register with publication dates, links and usage notes.
 - `assets/` — selected slide previews used in this README.
 
 ## Primary sources
